@@ -1,0 +1,17 @@
+body {
+    background-color :aqua;
+}
+.judul{
+    text-align: center;
+    padding: 20px;
+    color: #201e1e;
+}
+p{
+    text-align: center;
+}
+table,th,td {
+    border: #fff solid 1px;
+}
+form{
+    text-align:center;
+}
